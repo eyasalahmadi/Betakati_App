@@ -1,16 +1,20 @@
-# betakati_app
+# Betakati App - Simple Digital Business Card 📇
 
-A new Flutter project.
+A simple and clean digital business card application built using **Flutter**. This project demonstrates basic UI layout principles and the effective use of core Flutter widgets.
 
-## Getting Started
+## 🚀 Features
+* **Simple UI:** Straightforward design focused on displaying contact information.
+* **Basic Layouts:** Use of vertical and horizontal alignment.
+* **Material Design:** Clean appearance using cards and icons.
 
-This project is a starting point for a Flutter application.
+## 🏗️ Core Widgets Used
+* **Column:** For vertical stacking of profile and info.
+* **Row:** For horizontal alignment of icons and text.
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Preview
+<p align="center">
+  <img src="images/betakati_screenshot.png" width="350" alt="App Screenshot">
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+📫 **Connect with me:** [eyasalahmadi111@gmail.com](mailto:eyasalahmadi111@gmail.com)
