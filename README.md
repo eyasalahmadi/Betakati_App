@@ -17,4 +17,4 @@ A simple and clean digital business card application built using **Flutter**. Th
 </p>
 
 ---
-📫 **Connect with me:** [eyasalahmadi111@gmail.com](mailto:eyasalahmadi111@gmail.com)
+📫 **Connect with me:** [eyasalahmadi7@gmail.com](mailto:eyasalahmadi7@gmail.com)
